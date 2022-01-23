@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "ionic app",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "com.memor.dmrt",
+  "appName": "Memories",
+  "webDir": "dist",
+  "bundledWebRuntime": false
 }

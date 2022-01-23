@@ -1,0 +1,6 @@
+{
+	"appId": "com.memor.dmrt",
+	"appName": "Memories",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
